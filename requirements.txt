@@ -1,0 +1,10 @@
+numpy
+pandas
+pyTelegramBotAPI
+python-dateutil
+pytz
+requests
+six
+sqlite3-api
+telebot
+telegram
