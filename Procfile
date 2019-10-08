@@ -1,3 +1,5 @@
-web: python bot.py
-worker: python timemanager.py
+bot: python3 bot.py
+worker: python3 timemanager.py
+
+
 
